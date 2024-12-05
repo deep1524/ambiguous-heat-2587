@@ -7,7 +7,7 @@ This is our Sixth Construct Week Project at Masai School's Full Stack Web Develo
 
 ## Demo
 
-https://crystalgoldshop.netlify.app
+https://poetic-rolypoly-9dd5dc.netlify.app
 
 ##  Tech-stack used
   
